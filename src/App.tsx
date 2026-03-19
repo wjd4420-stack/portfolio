@@ -56,7 +56,7 @@ export default function App() {
                 <h3 className="text-2xl font-bold mb-6">Instagram QR</h3>
                 <div className="aspect-square bg-white rounded-3xl overflow-hidden mb-6 relative flex items-center justify-center border border-black/5">
                   <img 
-                    src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://www.instagram.com/lo.jaysh_mallow.ver" 
+                    src="https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=https://www.instagram.com/jaysh_mallow" 
                     alt="Instagram QR Code" 
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
@@ -66,8 +66,8 @@ export default function App() {
                   </div>
                 </div>
                 <div className="mt-4">
-                  <p className="text-2xl font-bold tracking-tight text-black/80">LO.JAYSH_MALLOW.VER</p>
-                  <p className="text-black/30 text-xs font-medium uppercase tracking-[0.2em] mt-2">@lo.jaysh_mallow.ver</p>
+                  <p className="text-2xl font-bold tracking-tight text-black/80">jaysh_mallow</p>
+                  <p className="text-black/30 text-xs font-medium uppercase tracking-[0.2em] mt-2">@jaysh_mallow</p>
                 </div>
               </div>
             </motion.div>
@@ -78,7 +78,7 @@ export default function App() {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-[#F5F5F0]/80 backdrop-blur-md border-b border-black/5">
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
-          <div className="text-xl font-bold tracking-tighter">jaysh_mallow</div>
+          <div className="text-xl font-bold tracking-tighter">lo.jaysh_mallow.ver</div>
           <div className="hidden md:flex items-center gap-8 text-sm font-medium">
             <a href="#about" className="hover:opacity-60 transition-opacity">About</a>
             <a href="#film" className="hover:opacity-60 transition-opacity">Film</a>
