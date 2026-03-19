@@ -193,14 +193,14 @@ export default function App() {
               category="Film"
               role="트랙 1~8번, 10번 작곡 참여"
               link="https://youtu.be/BCX89-fb2_0?si=uaMf5hHD5C3tY29R"
-              image="https://ais-pre-kic5memzw5k4q25kizdrhg-241127027061.asia-northeast1.run.app/api/attachments/6f9b8c7d-8e9a-4b0c-9d1e-2f3a4b5c6d7e"
+              image="https://raw.githubusercontent.com/wjd4420-stack/portfolio/304d7ef138eec0764a4b33d535299e178a4dc8dd/Still%202026-03-06%20230934_1.1.1.jpg"
             />
             <ProjectCard 
               title="2024 대진대학교 제23회 DCP 졸업영화제 : 비상"
               category="Trailer (N°23 Santa)"
               role="전곡 작곡 참여"
               link="https://youtu.be/CHcoRhZcWoc?si=Vk7z0S7KygMuCoxG"
-              image="https://ais-pre-kic5memzw5k4q25kizdrhg-241127027061.asia-northeast1.run.app/api/attachments/6f9b8c7d-8e9a-4b0c-9d1e-2f3a4b5c6d7e"
+              image="https://raw.githubusercontent.com/wjd4420-stack/portfolio/304d7ef138eec0764a4b33d535299e178a4dc8dd/%E1%84%89%E1%85%A1%E1%86%AB%E1%84%90%E1%85%A1_%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A6%E1%84%83%E1%85%B5%E1%86%BA.png"
             />
           </div>
         </section>
